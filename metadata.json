@@ -1,0 +1,8 @@
+{
+  "name": "Selective Repeat Protocol Simulator",
+  "description": "A C program demonstrating selective repeat sliding window communication by handling individual frame acknowledgments and retransmitting lost data packets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
